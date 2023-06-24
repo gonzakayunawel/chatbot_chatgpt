@@ -29,7 +29,7 @@ python3 main.py
 ```
 o en Windows
 ```bash
-py main.py
+python main.py
 ```
 
 Una vez iniciado el chat, puede empezar a enviar mensajes al chatbot y este le responderá con base a su lógica interna y a su conocimiento previo.
@@ -72,7 +72,7 @@ python3 main.py
 or in Windows
 
 ```bash
-py main.py
+python main.py
 ```
 
 Once the chat is initiated, you can start sending messages to the chatbot, and it will respond based on its internal logic and prior knowledge.
